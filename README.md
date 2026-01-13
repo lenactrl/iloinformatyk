@@ -1,2 +1,1 @@
-`# iloinformatyk`
 Lena
